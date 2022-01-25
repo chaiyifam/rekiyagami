@@ -1,7 +1,27 @@
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Hi i'm Toni</title>
+    </head>
+    <body>
+        <img src="https://static.wikia.nocookie.net/valorant/images/e/e6/Site-logo.png/revision/latest?cb=20210620062038" width="500" height="500" alt="Valorant Wiki" data-test="fandom-community-header-community-logo">
+        <h1>This is a Heading</h1>
+        <p>This is a paragraph.</p>
+    </body>
+</html>
+
+
+
+
+
+
 ### Hi there 👋 
 I'm [Toni](https://profile.dev)
 
 l' like to do project that interest to me.
+
+
 
 :page_with_curl: I'm currently learning:
 
